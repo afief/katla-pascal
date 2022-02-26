@@ -79,7 +79,7 @@ begin
   ClrScr;
   printHeader();
   repeat
-    write('Masukkan Jawaban: ');
+    write('Masukkan Tebakan: ');
     ReadLn(userInput);
     if userInput = 'keluar' then Halt(1);
     ClrScr;
