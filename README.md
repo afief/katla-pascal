@@ -16,5 +16,5 @@ Permainan kata tanpa batas harian. Ditulis dengan [Pascal](https://en.wikipedia.
 
 ![image](https://user-images.githubusercontent.com/1335454/155828780-6d472026-9cc5-47b4-8bdf-e052a606fef2.png)
 
-![image](https://user-images.githubusercontent.com/1335454/155828806-7c562e7d-5228-41d5-9af6-1cc7393a6248.png)
+![image](https://user-images.githubusercontent.com/1335454/155828956-92c76974-e53f-4a67-b771-b5bbf69df11b.png)
 
